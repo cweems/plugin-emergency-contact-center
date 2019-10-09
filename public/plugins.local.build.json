@@ -1,0 +1,13 @@
+[
+  {
+    "name": "EmergencyContactCenterPlugin",
+    "version": "0.0.0",
+    "class": "EmergencyContactCenterPlugin",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1"
+      }
+    ],
+    "src": "http://127.0.0.1:8085"
+  }
+]
